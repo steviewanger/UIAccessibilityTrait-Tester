@@ -1,0 +1,1 @@
+# UIAccessibilityTrait-Tester
